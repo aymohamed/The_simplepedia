@@ -1,8 +1,4 @@
 
-//Abdijabar Yussuf Mohamed
-//HW4
-
-
 import React, { Component } from 'react';
 
  class EditArticle extends Component {
